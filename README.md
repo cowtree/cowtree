@@ -41,7 +41,7 @@ Python · Pydantic · OpenAI-compatible APIs · oMLX / MLX · Qwen · FastAPI ·
 
 ### Earlier work
 
-- [agentic_ai_example](https://github.com/cowtree/agentic_ai_example): a multi-agent financial news aggregator that fetches, scores and summarizes news on a local open-source model
+- [financial_news_agents](https://github.com/cowtree/financial_news_agents): a multi-agent financial news aggregator that fetches, scores and summarizes news on a local open-source model
 - [dynamic_risk_assessment_mlops](https://github.com/cowtree/dynamic_risk_assessment_mlops): ML automation in production
 - [udacity_mldevops_project3](https://github.com/cowtree/udacity_mldevops_project3): deploying an ML model with FastAPI
 
